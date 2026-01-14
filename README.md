@@ -1,8 +1,4 @@
 ✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-github profile markdown generator logo
-GitHub Profile README Generator
 Star this repo23921
 Fork on GitHub8208
 <h1 align="center">Hi 👋, I'm DAIZ Zakaria</h1>
