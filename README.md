@@ -1,6 +1,4 @@
 ✨
-Star this repo23921
-Fork on GitHub8208
 <h1 align="center">Hi 👋, I'm DAIZ Zakaria</h1>
 <h3 align="center">A passionate futur ai engineer from France</h3>
 
