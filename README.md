@@ -1,12 +1,12 @@
 ✨
 <h1 align="center">Hi 👋, I'm DAIZ Zakaria</h1>
-<h3 align="center">A passionate futur ai engineer from France</h3>
+<h3 align="center">A passionate futur ai engineer at Coda </h3>
 
 - 🔭 I’m currently working on [my TFT-Analysis project](https://github.com/ZakariaDaiz/TFT-Project)
 
 - 🌱 I’m currently learning **Machine Learning and Data engineering**
 
-- 🤝 I’m looking for help with **finding an internship for next year!**
+- 🤝 I’m looking for help with **finding an internship for next year** for my Master's degree at Coda's DataScience&IA cursus
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZakariaDaiz](https://github.com/ZakariaDaiz)
 
